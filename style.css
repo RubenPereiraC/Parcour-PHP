@@ -1,0 +1,43 @@
+
+/* CLASSES */
+
+body {
+    font-family:'Fira Sans', sans-serif;
+    line-height:5vh;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a{
+    text-decoration:none;
+}
+
+
+.navigation {
+    border: 1px solid #E14446;;
+    border-radius: 10px;
+    padding:25px;
+    margin:0 auto;
+    width:500px;
+}
+.navigation h2 {
+    color:#E14446;
+}
+
+a {
+    color:#000;
+}
+
+a:hover {
+    background-color:#E14446;
+    color:white;
+}
+
+a:link:active, a:visited:active {
+    background-color:#FFF;
+    color: #E14446;
+}
